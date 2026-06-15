@@ -1,0 +1,6 @@
+{
+  "name": "FormReady",
+  "description": "Premium online form helper to crop, compress, and resize photos, signatures, thumb impressions, and PDFs according to government and exam rules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
